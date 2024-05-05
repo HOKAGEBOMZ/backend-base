@@ -1,0 +1,9 @@
+body {
+background-color: rgb(85, 63, 63);
+}
+.magic-form{
+   max-width: 22rem; 
+}
+.magic-form__btm{
+    height: 40px;;
+}
